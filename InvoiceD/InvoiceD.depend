@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1563728986 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\invoiced\main.cpp
+	"InvoiceD.h"
+	<iostream>
+
+1563728775 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\invoiced\include\invoiced.h
+	<iostream>
+	<string>
+
+1563728845 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\invoiced\src\invoiced.cpp
+	"InvoiceD.h"
+	<string>
+	<iostream>
+

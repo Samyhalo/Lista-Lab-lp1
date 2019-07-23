@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563731728 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\empregado\main.cpp
+	<iostream>
+	"Empregado.h"
+	<string>
+
+1563731728 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\empregado\src\empregado.cpp
+	"Empregado.h"
+	<string>
+	<iostream>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1563844538 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\pessoad\src\pessoad.cpp
+	"PessoaD.h"
+	<string>
+	<iostream>
+
+1563737206 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\pessoad\include\pessoad.h
+	<iostream>
+	<string>
+
+1563844315 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\pessoad\main.cpp
+	<iostream>
+	<string>
+	"PessoaD.h"
+

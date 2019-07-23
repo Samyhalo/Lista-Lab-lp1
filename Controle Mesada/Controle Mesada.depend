@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1563819882 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\controle mesada\main.cpp
+	<iostream>
+	<string>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1563819927 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\controle mesada\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	"Despesa.h"
+	<iostream>
+	<string>
+
+1563819762 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\controle mesada\include\controledegastos.h
+	<string>
+	<iostream>
+	<vector>
+	"Despesa.h"
+
+1563741516 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\controle mesada\src\despesa.cpp
+	"Despesa.h"
+
+1563740245 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\controle mesada\include\despesa.h
+	<string>
+	<iostream>
+
+1563820236 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle mesada\main.cpp
+	<iostream>
+	<string>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1563740245 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle mesada\include\despesa.h
+	<string>
+	<iostream>
+
+1563819762 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle mesada\include\controledegastos.h
+	<string>
+	<iostream>
+	<vector>
+	"Despesa.h"
+
+1563819927 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle mesada\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	"Despesa.h"
+	<iostream>
+	<string>
+
+1563741516 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle mesada\src\despesa.cpp
+	"Despesa.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563388727 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\data\main.cpp
+	<iostream>
+	"Data.h"
+
+1563389352 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\data\src\data.cpp
+	"Data.h"
+	<iostream>
+
+1563388042 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\data\include\data.h
+

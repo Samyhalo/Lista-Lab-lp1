@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1563842302 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle de pagamentos\main.cpp
+	<iostream>
+	<string>
+	"Pagamento.h"
+	"ControleDePagamentos.h"
+
+1563842356 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle de pagamentos\include\pagamento.h
+	<string>
+	<iostream>
+
+1563839897 c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle de pagamentos\include\controledepagamentos.h
+	<string>
+	<iostream>
+	"Pagamento.h"
+
+1563840708 source:c:\users\samuel\documents\ufpb\lp1 lab - derzu\roteiro1\controle de pagamentos\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	"Pagamento.h"
+	<iostream>
+	<string>
+
